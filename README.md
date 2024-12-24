@@ -74,13 +74,6 @@ Disney-Hotstar-Clone/
 └── README.md
 ```
 
-## Screenshots
-
-### Home Page
-![Home Page](https://via.placeholder.com/800x400) <!-- Replace with a screenshot -->
-
-### Responsive Design
-![Responsive Design](https://via.placeholder.com/800x400) <!-- Replace with a screenshot -->
 
 ## Contributing
 
@@ -103,10 +96,5 @@ Contributions are welcome! If you have suggestions or improvements, please creat
    ```
 5. Create a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-**Note**: This project is for educational purposes only and is not intended for commercial use.
