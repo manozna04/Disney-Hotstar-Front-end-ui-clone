@@ -1,6 +1,6 @@
 # Disney+ Hotstar Clone
 
-![Disney+ Hotstar Clone](https://via.placeholder.com/800x400) <!-- Replace with a screenshot of your project -->
+
 
 A clone of the popular streaming platform Disney+ Hotstar built using HTML, CSS, and JavaScript. This project aims to replicate the user interface and provide basic functionalities like browsing content and a responsive layout.
 
